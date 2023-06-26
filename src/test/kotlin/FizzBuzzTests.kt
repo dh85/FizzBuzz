@@ -14,7 +14,7 @@ class FizzBuzzTests {
         20 to "Buzz",
         15 to "FizzBuzz",
         30 to "FizzBuzz",
-        45 to "45"
+        45 to "FizzBuzz"
     )
 
     @Test
